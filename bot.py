@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import requests
 
-TOKEN = '687525307:AAETuwa-twszYp_HUw9hrySbUIMoKBRkiI0'
+TOKEN = ''
 MAIN_URL = f'https://api.telegram.org/bot{TOKEN}'
 
 # proxies = {
@@ -13,7 +13,7 @@ MAIN_URL = f'https://api.telegram.org/bot{TOKEN}'
 
 # # ответ
 # payload = {
-#     'char_id': 1111,
+#     'chat_id': 1111,
 #     'text': 'Hello',
 #     'reply_to_message_id': 1
 # }
